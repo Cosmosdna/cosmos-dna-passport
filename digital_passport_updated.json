@@ -1,0 +1,17 @@
+{
+  "passport_id": "158532d9-5bf7-4f35-ae7f-a5ea9e12459f",
+  "name": "Nurah Abdulaziz",
+  "owner": "0xAbC1234567890defABC1234567890DefABc12345",
+  "text_style_hash": "2b227db5e272c43806873090e7cba4fc255e795d8fc9485018549cdb7efc3694",
+  "media": [
+    {
+      "type": "image",
+      "filename": "cosmosDNAbackdrop.png",
+      "sha256": "908b44d66a0ccce34083bd648d47a55df6caafd4c0d5f58af2627f752d51810b",
+      "description": "Background identity pattern for Cosmos DNA"
+    }
+  ],
+  "issued_at": "2025-06-14T20:55:33.608558Z",
+  "signature": "unsigned",
+  "signed_by": "manual_or_local_signature_required"
+}
